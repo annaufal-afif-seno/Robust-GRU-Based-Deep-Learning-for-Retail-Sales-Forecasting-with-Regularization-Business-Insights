@@ -1,0 +1,2 @@
+# Robust-GRU-Based-Deep-Learning-for-Retail-Sales-Forecasting-with-Regularization-Business-Insights
+This study develops a robust GRU-based deep learning framework for monthly retail sales forecasting, integrating L2 and dropout regularization to enhance generalization and stability. The model captures nonlinear temporal patterns and delivers reliable predictions to support data-driven business decisions.
